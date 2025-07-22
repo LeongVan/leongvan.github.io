@@ -9,4 +9,4 @@ redirect_from:
 
 **About**
 
-I am an incoming PhD at [University of Arizona](https://www.arizona.edu/)
+I am an incoming PhD at []()
