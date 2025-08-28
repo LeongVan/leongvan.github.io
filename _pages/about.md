@@ -18,9 +18,11 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
 * Computer Vision
 
 # Education
-<h3>🎓 University of Arizona</h3>       
+**🎓 University of Arizona**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD Student in Computer Science and Engineering    
-<h3>🎓 The Chinese University of Hong Kong, Shenzhen</h3>       
+<br>
+**🎓 The Chinese University of Hong Kong, Shenzhen**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science     
-<h3>🎓 University of Science and Technology Beijing</h3>       
+<br>
+**🎓 University of Science and Technology Beijing**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Applications     
