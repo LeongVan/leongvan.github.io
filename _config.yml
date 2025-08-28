@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "He/Him"  
   bio              : "Stay hungry, Stay foolish. "
   location         : "Tucson, AZ, USA"
-  employer         : ""
+  employer         : # ""
   uri              : # URL
   email            : "falongfan@arizona.edu" 
 
