@@ -1,13 +1,11 @@
 ---
 permalink: /
-title: /
+title: About Me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-# About Me
 
 👋 Hi! My name is Falong Fan, a first-year PhD student at [Eletrical & Computer Engineering Department](https://ece.engineering.arizona.edu/) at [University of Arizona (UofA)](https://www.arizona.edu/), under supervision of [Prof. Bo Liu](https://ergodicmarkovian.github.io/main/). My research interests lie at artificial intelligence, specifically at multi-agent system and their applications, such as healthcare and robustness. 
 
