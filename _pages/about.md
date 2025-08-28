@@ -21,7 +21,7 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
 **🎓 University of Arizona**    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD Student in Computer Science and Engineering    
 <br>
-**🎓 The Chinese University of Hong Kong, Shenzhen**
+**🎓 The Chinese University of Hong Kong, Shenzhen**     
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science     
 <br>
 **🎓 University of Science and Technology Beijing**   
