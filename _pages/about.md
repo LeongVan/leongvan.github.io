@@ -15,8 +15,8 @@ Before starting my PhD journey at UofA, I earned my Masters' degree in [The Chin
 
 # Education
 🎓 University of Arizona     
-&nbsp;&nbsp;&nbsp;&nbsp;PhD Student in Computer Science and Engineering    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD Student in Computer Science and Engineering    
 🎓 The Chinese University of Hong Kong, Shenzhen     
-&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master of Science in Data Science     
 🎓 University of Science and Technology Beijing     
-&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Applications     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Management in Big Data Management and Applications     
