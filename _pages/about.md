@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-**About**
+**Intro**
 
-I am an incoming PhD at []()
+My name is Falong Fan, a PhD student at [Eletrical & Computer Engineering Department](https://ece.engineering.arizona.edu/) at [University of Arizona](https://www.arizona.edu/), under supervision of Prof. [Bo Liu](https://ergodicmarkovian.github.io/main/). 
