@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Falong Fan"
   pronouns         : # example: "He/Him"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Hong Kong"
+  bio              : "Stay hungry, Stay foolish. "
+  location         : "Tucson, AZ, USA"
   employer         : ""
   uri              : # URL
-  email            : "falongfan@link.cuhk.edu.cn" 
+  email            : "falongfan@arizona.edu" 
 
   # Academic websites
   academia         : # URL
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -75,7 +75,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/fan-fa-long-24"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
